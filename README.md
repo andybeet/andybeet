@@ -1,6 +1,11 @@
 ### About me
 
-I am a research scientist and analyst (with [IBSS](https://www.ibsscorp.com/)) in support of NOAA Fisheries. I am locateed in the Ecosystem Dynamics and Assessment Branch. I received an undergraduate and masters degrees from University of Wales, Swansea. Current research interests include ecosystem based fisheries management, multispecies ecosystem modelling, understanding the biological and technical interactions within complex ecosystems. I am a proponent of open science principles aiming to increase reproducibility and transparency in collaborative team settings. I also hold a guest investigator position at the Woods Hole Oceanographic Institution.
+I am a research scientist and analyst (with [IBSS](https://www.ibsscorp.com/)) in support of NOAA Fisheries. I am part of the [Ecosystem Dynamics and Assessment Branch](https://github.com/NOAA-EDAB). I received an undergraduate and masters degrees from University of Wales, Swansea. Current research interests include ecosystem based fisheries management, multispecies ecosystem modelling, understanding the biological and technical interactions within complex ecosystems. I am a proponent of open science principles aiming to increase reproducibility and transparency in collaborative team settings. I also hold a guest investigator position at the Woods Hole Oceanographic Institution.
+
+* [Research Gate](https://www.researchgate.net/profile/Andrew-Beet)
+* [Linkedin](https://www.linkedin.com/in/andy-beet-611017107/)
+* [Google Scholar](https://scholar.google.com/citations?user=xLF4sJ8AAAAJ&hl=en)
+* [Zotero](https://www.zotero.org/groups/2845679/beetpublications) 
 
 
 <!--
