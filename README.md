@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me
+
+I am a research scientist and analyst (with [IBSS](https://www.ibsscorp.com/)) in support of NOAA Fisheries. I am locateed in the Ecosystem Dynamics and Assessment Branch. I received an undergraduate and masters degrees from University of Wales, Swansea. Current research interests include ecosystem based fisheries management, multispecies ecosystem modelling, understanding the biological and technical interactions within complex ecosystems. I am a proponent of open science principles aiming to increase reproducibility and transparency in collaborative team settings. I also hold a guest investigator position at the Woods Hole Oceanographic Institution.
+
 
 <!--
 **andybeet/andybeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
