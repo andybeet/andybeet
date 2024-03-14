@@ -5,7 +5,8 @@ I am a research scientist and analyst (with [IBSS](https://www.ibsscorp.com/)) i
 * [Research Gate](https://www.researchgate.net/profile/Andrew-Beet)
 * [Linkedin](https://www.linkedin.com/in/andy-beet-611017107/)
 * [Google Scholar](https://scholar.google.com/citations?user=xLF4sJ8AAAAJ&hl=en)
-* [Zotero](https://www.zotero.org/groups/2845679/beetpublications/items/4TG2297Z/item-details) 
+* [Zotero](https://www.zotero.org/groups/2845679/beetpublications/items/4TG2297Z/item-details)
+* [Orcid](https://orcid.org/0000-0001-8270-7090)
 
 
 <!--
