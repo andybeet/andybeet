@@ -1,6 +1,6 @@
 ### About me
 
-Hi! I'm Andy. I am a research scientist and analyst (with [IBSS](https://www.ibsscorp.com/)) in support of NOAA Fisheries. As a proponent of open science principles I strive to show by example the importance of reproducible workflows, transparency in methodologies, and that collaboration is a necessity for advancing scientific and policy based work. This philosophy is applied to all of my work. To read more please visit [andybeet.com](andybeet.com)
+Hi! I'm Andy. I am a research scientist and analyst (with [IBSS](https://www.ibsscorp.com/)) in support of NOAA Fisheries. As a proponent of open science principles I strive to show by example the importance of reproducible workflows, transparency in methodologies, and that collaboration is a necessity for advancing scientific and policy based work. This philosophy is applied to all of my work. To read more please visit [andybeet.com](https://andybeet.com)
 
 * [Research Gate](https://www.researchgate.net/profile/Andrew-Beet)
 * [Linkedin](https://www.linkedin.com/in/andy-beet-611017107/)
